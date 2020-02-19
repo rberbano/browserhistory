@@ -21,4 +21,35 @@ img {
   margin-right: 10px;
 }
 
+.left {
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.center {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
+
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.navigation li {
+  display: inline;
+}
+
+.navigation a {
+  margin-left: 50px;
+  margin-right: 50px;
+}
 
